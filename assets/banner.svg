@@ -1,12 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="310" viewBox="0 0 1100 310" role="img" aria-label="Salim Ben Slim — Full-Stack Engineer">
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090e19"/><stop offset=".55" stop-color="#101b2e"/><stop offset="1" stop-color="#092b38"/></linearGradient><linearGradient id="line"><stop stop-color="#00c9ff"/><stop offset="1" stop-color="#f2a65a"/></linearGradient><radialGradient id="halo"><stop stop-color="#0f7790" stop-opacity=".34"/><stop offset="1" stop-color="#0f7790" stop-opacity="0"/></radialGradient><pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#6cb6ff" stroke-opacity=".09"/></pattern></defs>
-<rect width="1100" height="310" rx="24" fill="url(#bg)"/><rect width="1100" height="310" rx="24" fill="url(#grid)"/><circle cx="925" cy="155" r="245" fill="url(#halo)"/><rect x="1" y="1" width="1098" height="308" rx="23" fill="none" stroke="#35566b"/>
-<circle cx="42" cy="33" r="6" fill="#f07178"/><circle cx="64" cy="33" r="6" fill="#e3b341"/><circle cx="86" cy="33" r="6" fill="#3fb950"/><text x="118" y="39" fill="#7e96ae" font-size="15" font-family="monospace">~/salimBenSlim1/profile</text>
-<path d="M43 73H440" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
-<text x="43" y="139" fill="#f4f8fc" font-size="61" font-weight="700" font-family="Arial,Helvetica,sans-serif">Salim <tspan fill="#31c9ef">Ben Slim</tspan></text>
-<text x="45" y="182" fill="#cbd6e3" font-size="24" font-family="Arial,Helvetica,sans-serif">Full-Stack Software Engineer</text>
-<text x="45" y="216" fill="#8fc0d5" font-size="19" font-family="Arial,Helvetica,sans-serif">Debugging  /  Systems Internals  /  Problem Solving</text>
-<rect x="43" y="241" width="515" height="44" rx="10" fill="#07111e" stroke="#2e5b70"/><text x="61" y="269" fill="#39d5ef" font-size="19" font-family="monospace">&gt; Life is a debugging session.</text>
-<g transform="translate(715 64)"><rect width="337" height="191" rx="13" fill="#0a111d" stroke="#32647b" stroke-width="2"/><path d="M0 35H337" stroke="#28475a"/><circle cx="21" cy="18" r="5" fill="#f07178"/><circle cx="40" cy="18" r="5" fill="#e3b341"/><circle cx="59" cy="18" r="5" fill="#3fb950"/><text x="82" y="23" fill="#8299b0" font-family="monospace" font-size="13">debug-session</text><text x="20" y="69" fill="#74d4ff" font-family="monospace" font-size="16">01  const trace = (bug) =&gt; {</text><text x="20" y="99" fill="#c2cfe0" font-family="monospace" font-size="16">02    reproduce(bug);</text><text x="20" y="129" fill="#c2cfe0" font-family="monospace" font-size="16">03    understand(bug);</text><text x="20" y="159" fill="#e9aa67" font-family="monospace" font-size="16">04    return fix(bug);</text><text x="20" y="181" fill="#74d4ff" font-family="monospace" font-size="16">05  };</text></g>
-<path d="M620 104l-26 26 26 26M664 104l26 26-26 26" stroke="#2ac8e9" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M654 95l-22 69" stroke="#e3a35e" stroke-width="4" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="310" viewBox="0 0 1100 310" role="img" aria-label="Salim Ben Slim — Full-Stack Software Engineer">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d3d78"/><stop offset=".34" stop-color="#147fc5"/><stop offset=".72" stop-color="#35c6e2"/><stop offset="1" stop-color="#f6c777"/></linearGradient>
+<radialGradient id="sun"><stop stop-color="#fffde8"/><stop offset=".2" stop-color="#ffe6a0" stop-opacity=".95"/><stop offset="1" stop-color="#fff4c2" stop-opacity="0"/></radialGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff4bf"/><stop offset=".5" stop-color="#f6c76d"/><stop offset="1" stop-color="#f3a842"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff" stop-opacity=".22"/><stop offset="1" stop-color="#ffffff" stop-opacity=".04"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="8"/></filter>
+</defs>
+<rect width="1100" height="310" rx="22" fill="url(#sky)"/>
+<circle cx="885" cy="120" r="220" fill="url(#sun)"/>
+<g opacity=".2" fill="none" stroke="#ffffff" stroke-width="2"><path d="M-30 240Q260 70 570 230T1130 180"/><path d="M-20 265Q270 95 575 255T1130 205"/><path d="M-20 288Q270 120 575 278T1130 232"/></g>
+<path d="M0 290Q280 230 520 285T1100 265V310H0Z" fill="#0a4b80" opacity=".2"/>
+<rect x="29" y="25" width="1042" height="260" rx="22" fill="url(#glass)" stroke="#ffffff" stroke-opacity=".4"/>
+<g transform="translate(856 145)">
+<circle r="103" fill="none" stroke="#ffffff" stroke-opacity=".26" stroke-width="2"/>
+<circle r="79" fill="none" stroke="url(#gold)" stroke-width="3"/>
+<path d="M0 -67L17 -20L66 -20L27 11L42 61L0 31L-42 61L-27 11L-66 -20L-17 -20Z" fill="url(#gold)" stroke="#fff4cc" stroke-width="2"/>
+<path d="M-113 6l-20 12 20 12M113 6l20 12-20 12" stroke="#fff4cc" stroke-width="4" fill="none" stroke-linecap="round"/>
+<g fill="#fff9df"><circle cx="-98" cy="-72" r="4"/><circle cx="101" cy="-77" r="3"/><circle cx="118" cy="81" r="4"/><circle cx="-105" cy="84" r="3"/></g>
+</g>
+<text x="78" y="86" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="5" font-weight="700" fill="#eafaff">ENGINEERING WITH PURPOSE</text>
+<text x="73" y="170" font-family="Arial,Helvetica,sans-serif" font-size="67" font-weight="800" fill="#ffffff">Salim <tspan fill="#fff0ba">Ben Slim</tspan></text>
+<text x="79" y="215" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#ffffff" font-weight="500">Full-Stack Software Engineer</text>
+<path d="M79 235H525" stroke="#fff0ba" stroke-width="2" opacity=".75"/>
+<text x="79" y="264" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="2" fill="#f3fbff">PRECISION  ·  CURIOSITY  ·  EXCELLENCE</text>
 </svg>
