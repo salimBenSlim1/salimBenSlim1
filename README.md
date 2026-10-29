@@ -62,11 +62,29 @@ Three instructions, two trips to memory, one trip through the ALU. Watching this
 
 <div align="center">
 
-<img src="./assets/tech-stack.svg" alt="Technologies: TypeScript, JavaScript, Python, C++, React, Next.js, Tailwind, Node.js, Express, Socket.IO, PostgreSQL, MongoDB, MySQL, Redis, Docker, AWS, Nginx, Git, GitHub Actions and Linux" width="95%" />
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,py,cpp&perline=8" alt="Languages" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perline=8" alt="Frontend" />
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,redis&perline=8" alt="Backend and data" />
 
 **Debugging & Systems**
 
-`GDB` · `IDA Free` · `x64dbg` · `Wireshark` · `x86-64 Assembly`
+<img src="https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white" alt="GDB" />
+<img src="https://img.shields.io/badge/IDA%20Free-1f6feb?style=for-the-badge" alt="IDA Free" />
+<img src="https://img.shields.io/badge/x64dbg-30363d?style=for-the-badge" alt="x64dbg" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Assembly-x86--64-6e40c9?style=for-the-badge" alt="x86-64 Assembly" />
+
+**Infrastructure & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,nginx,git,github,githubactions,linux&perline=8" alt="Infrastructure and tools" />
 
 </div>
 
