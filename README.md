@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Salim Ben Slim — Full-Stack Engineer, Debugging and Systems Internals" width="100%" />
+<img src="./assets/banner.svg.png" alt="Salim Ben Slim — Full-Stack Engineer, Debugging and Systems Internals" width="100%" />
 
 <img src="./assets/typing.svg" alt="Life is a debugging session. Reproduce, trace, understand, fix, verify." width="85%" />
 
