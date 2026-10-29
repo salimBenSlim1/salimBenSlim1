@@ -95,8 +95,6 @@ Explore my [public repositories](https://github.com/salimBenSlim1?tab=repositori
 
 <br />
 
-<img height="190" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
-<img height="190" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages" />
 
 <br />
 
