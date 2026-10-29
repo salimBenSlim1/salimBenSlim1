@@ -97,12 +97,6 @@ Explore my [public repositories](https://github.com/salimBenSlim1?tab=repositori
 
 
 <br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salimBenSlim1/salimBenSlim1/output/github-snake-dark.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/salimBenSlim1/salimBenSlim1/output/github-snake.svg" />
-</picture>
-
 </div>
 
 <details>
