@@ -91,31 +91,21 @@ Explore my [public repositories](https://github.com/salimBenSlim1?tab=repositori
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=salimBenSlim1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimBenSlim1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
-
-<br />
-
 <img src="https://streak-stats.demolab.com?user=salimBenSlim1&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=salimBenSlim1&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Contribution graph" width="100%" />
+<img height="190" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+<img height="190" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages" />
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salimBenSlim1/salimBenSlim1/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/salimBenSlim1/salimBenSlim1/output/github-snake.svg" />
+</picture>
 
 </div>
-
-<!--
-Optional: contribution snake animation.
-1. Add the workflow from the instructions (Platane/snk) to .github/workflows/snake.yml
-2. Run it once, then uncomment the block below.
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salimBenSlim1/salimBenSlim1/output/github-snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/salimBenSlim1/salimBenSlim1/output/github-snake.svg" />
-  </picture>
-</div>
--->
 
 <details>
 <summary><b>How I approach debugging</b></summary>
