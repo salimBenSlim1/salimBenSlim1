@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hey, I'm Salim Ben Slim 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Full-Stack+Software+Engineer;I+build+things+that+solve+real+problems;I+debug+until+I+understand+why;Always+curious+about+what's+under+the+hood" alt="Animated introduction" />
+<img src="./assets/header.svg" alt="Salim Ben Slim — Full-Stack Software Engineer" width="100%" />
 
 **Life is a debugging session.**
 
@@ -29,19 +27,19 @@ What keeps me curious is the part you don't always see: **why a system behaves t
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,cpp&theme=dark" alt="TypeScript, JavaScript, Python, C++" />
+<p><strong>TypeScript · JavaScript · Python · C++</strong></p>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="React, Next.js, Tailwind CSS, HTML, CSS" />
+<p><strong>React · Next.js · Tailwind CSS · HTML · CSS</strong></p>
 
 **Backend & Data**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,redis&theme=dark" alt="Node.js, Express, PostgreSQL, MongoDB, MySQL, Redis" />
+<p><strong>Node.js · Express · PostgreSQL · MongoDB · MySQL · Redis</strong></p>
 
 **Infrastructure & Tools**
 
-<img src="https://skillicons.dev/icons?i=docker,aws,nginx,git,github,githubactions,linux&theme=dark" alt="Docker, AWS, Nginx, Git, GitHub, GitHub Actions, Linux" />
+<p><strong>Docker · AWS · Nginx · Git · GitHub · GitHub Actions · Linux</strong></p>
 
 </div>
 
@@ -83,12 +81,14 @@ Worked on production web applications spanning frontend interfaces, backend APIs
 
 ### `> github --activity`
 
+Explore my [public repositories](https://github.com/salimBenSlim1?tab=repositories) and [contribution history](https://github.com/salimBenSlim1?tab=overview).
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=salimBenSlim1&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimBenSlim1&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Most-used public repository languages" height="165" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=salimBenSlim1&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph" width="95%" />
+
+
+
 
 </div>
 
